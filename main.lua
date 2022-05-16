@@ -6,5 +6,5 @@ _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 syn.queue_on_teleport([[
     repeat wait() until game:IsLoaded() wait()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Peppermintsaregood/gss/main/main.lua))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Peppermintsaregood/gss/main/main.lua'))()
     ]])
